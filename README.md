@@ -62,6 +62,8 @@ Pi for Excel is an AI agent that lives inside Excel. It reads your workbook, mak
 
 ## Install
 
+> **Hemant2909 fork:** The upstream manifest link below opens the upstream deployment, not this fork. For this fork's own add-in identity and Mercury 2.5 connection, follow [fork deployment and installation](docs/deploy-hemant.md) after it is hosted. The hosted fork's generated `/manifest.prod.xml` is the one to submit to Microsoft Marketplace.
+
 1. Download [`manifest.prod.xml`](https://pi-for-excel.vercel.app/manifest.prod.xml)
 2. Add it to Excel — see [**install guide**](docs/install.md) for step-by-step instructions (macOS + Windows)
 3. Click **Open Pi** in the ribbon
